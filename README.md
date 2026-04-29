@@ -218,7 +218,7 @@ This project demonstrates:
 
 ## 🔗 Connect With Me
 
-* GitHub: https://github.com/jumma786/Strategic-Valuation-Operational-Analysis-Chocolate-Sales-Co
+* GitHub: https://github.com/jumma786/Strategic-Valuation-Operational-Analysis-Chocolate-Sales-Co.-
 * LinkedIn: https://www.linkedin.com/in/jumma-mohammad/
 
 ---
